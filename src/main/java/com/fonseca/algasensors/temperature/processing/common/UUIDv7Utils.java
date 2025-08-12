@@ -1,4 +1,4 @@
-package com.fonseca.algasensors.temperature.processing;
+package com.fonseca.algasensors.temperature.processing.common;
 
 import java.time.Instant;
 import java.time.OffsetDateTime;
